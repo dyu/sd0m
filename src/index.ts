@@ -1,3 +1,5 @@
+// extracted from vue 2.1.x
+
 export function setBooleanAttr(el, key, value) {
     if (value == null || value === false) el.removeAttribute(key)
     else el.setAttribute(key, key)
