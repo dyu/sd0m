@@ -1,6 +1,6 @@
 {
   "name": "sd0m",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "micro dom lib",
   "author": "dyu",
   "main": "lib/index.js",
