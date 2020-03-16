@@ -1,0 +1,20 @@
+{
+  "name": "sd0m",
+  "version": "0.1.0",
+  "description": "micro dom lib",
+  "author": "dyu",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "license": "Apache-2.0",
+  "README": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dyu/sd0m.git"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "2.6.2"
+  }
+}
